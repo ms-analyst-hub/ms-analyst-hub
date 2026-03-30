@@ -2,10 +2,10 @@
 **Educator turned Data Analyst | SQL | MS Excel | Python | Power BI | Tableau**
 
 - 🔭 **I’m currently working on:** Building analytics projects in **Power BI** & **Python**  
-- 🌱 **I’m currently learning:** **DAX**, advanced **SQL** techniques  
+- 🌱 **I’m currently learning:** **Generative AI**  
 - 👯 **I’m looking to collaborate on:** Data analysis projects, dashboards, and storytelling with data  
 - 🤔 **I’m looking for help with:** Exploring real-world **ETL** and **cloud data workflows**  
-- 📫 **How to reach me:** [mamatamanjaris25@gmail.com]  
+- 📫 **How to reach me:** [mamatamanjaris25@gmail.com] / [sahoo.mamatamanjari7@gmail.com]  
 - 😄 **Fun fact:** I still carry my teacher’s mindset, I explain data the way I explained math to my students  
 
 
@@ -14,7 +14,7 @@ Data analyst in the making — blending SQL, Python, and BI tools to turn raw da
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mamata-manjari-data-analyst) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mamatamanjarisahoo) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/manjari_sa82586) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mamatamanjaris25@gmail.com)
 
