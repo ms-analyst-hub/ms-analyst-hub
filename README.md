@@ -1,5 +1,5 @@
 # Hi 👋, I'm Mamata
-**Educator turned Data Analyst | SQL | MS Excel | Python | Power BI | Tableau**
+**Data Analyst | SQL | Python | Power BI | Turning data into business insights**
 
 - 🔭 **I’m currently working on:** Building analytics projects in **Power BI** & **Python**  
 - 🌱 **I’m currently learning:** **Generative AI**  
