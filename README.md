@@ -1,5 +1,5 @@
 # Hi 👋, I'm Mamata
-**Data Analyst | SQL • Python • Power BI • Tableau | Turning Data into Actionable Insights | Ex-Educator (8+ yrs) with Strong Analytical Thinking**
+**Math Educator → Data Analyst | Hands-on Projects: Healthcare, HR & Public Datasets (Attrition, Occupancy, 15+ KPIs) | SQL • Python • Power BI • Excel | Open to Entry-Level Opportunities**
 
 - 🔭 **I’m currently working on:** Building analytics projects in **Power BI** & **Python**  
 - 🌱 **I’m currently learning:** **Generative AI**  
