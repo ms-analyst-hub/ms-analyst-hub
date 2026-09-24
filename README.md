@@ -1,5 +1,5 @@
 # Hi 👋, I'm Mamata
-**Math Educator → Data Analyst | Hands-on Projects: Healthcare, HR & Public Datasets (Attrition, Occupancy, 15+ KPIs) | SQL • Python • Power BI • Excel | Open to Entry-Level Opportunities**
+**Math Educator → Data Analyst | Hands-on Projects: E-Commerce, HR & Public Datasets (Attrition, Occupancy, 15+ KPIs) | SQL • Python • Power BI • Excel | Open to Entry-Level Opportunities**
 
 - 🔭 **I’m currently working on:** Building analytics projects in **Power BI** & **Python**  
 - 🌱 **I’m currently learning:** **Generative AI**  
